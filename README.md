@@ -1,8 +1,6 @@
 ## Backend-For-JS-Promise-App
 ## A restful Api built for serving as a Backend for a JS Promise App.
 
-##
-
 [For Live Demo](https://divyanshu-restaurant.herokuapp.com/api/categories)
 
 * Please Use POSTMAN IN ORDER TO POST DATA !!
@@ -118,12 +116,6 @@
 * GET Request to URL https://divyanshu-restaurant.herokuapp.com/api/categories 
 
 ![alt tag](https://github.com/divyanshu-rawat/Backend-For-JS-Promise-App/blob/master/snapshots/route_categories.png)
-
-##
-
-* GET Request to URL https://divyanshu-restaurant.herokuapp.com/api/menuItems
-
-![alt tag](https://github.com/divyanshu-rawat/Backend-For-JS-Promise-App/blob/master/snapshots/route_menuItems.png)
 
 ##
 
