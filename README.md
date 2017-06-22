@@ -1,7 +1,5 @@
 ## A restful Api built for serving as a Backend for a JS Promise App.
 
-##
-
 * Please Use POSTMAN in order to post data !
 
 ##
